@@ -1,0 +1,20 @@
+@media (max-width: 1400px) {
+  body {
+    width: 90vw;
+    height: 100vh;
+  }
+
+  .main-container {
+    width: 85vw;
+    height: 85vh;
+  }
+
+  .container-1 {
+    margin: 0;
+  }
+
+  .heading {
+    margin: 0;
+    font-size: 20px;
+  }
+}
